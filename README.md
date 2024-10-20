@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doruk</h1>
-<h3 align="center">A passionate full end developer from Turkey</h3>
+<h3 align="center">A passionate full end developer from Turkey</h3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorukdogular&label=Profile%20views&color=0e75b6&style=flat" alt="dorukdogular" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorukdogular" alt="dorukdogular" /></a> </p>
 
