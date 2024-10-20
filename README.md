@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full end developer from Turkey</h3
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorukdogular" alt="dorukdogular" /></a> </p>
-
 - 🌱 I’m currently learning **Asp.Net,CSS**
 
 - 📫 How to reach me **dorukdogular@hotmail.com**
