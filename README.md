@@ -1,33 +1,16 @@
-# My Portfolio Website
+<h1 align="center">Hi 👋, I'm Doruk</h1>
+<h3 align="center">A passionate full end developer from Turkey</h3
 
-This portfolio was designed and generated using **AutoPortfolio Studio**.
 
-## 🚀 Instant Deployment to GitHub Pages
+- 🌱 I’m currently learning **CMS Systems**
 
-You can host this website online for free using GitHub Pages:
+- 📫 How to reach me **dorukdogular@hotmail.com**
 
-### Step 1: Create a GitHub Repository
-1. Go to [github.com/new](https://github.com/new) and log in.
-2. Create a new public repository. You can name it `my-portfolio` or `your-username.github.io`.
-3. Do **not** check "Add a README file" or "Add .gitignore". Keep it empty.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/nocontextdoruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nocontextdoruk" height="30" width="40" /></a>
+</p>
 
-### Step 2: Upload Your Files
-1. Extract the downloaded `portfolio.zip` file.
-2. Go to your new repository on GitHub.
-3. Click on the link **"uploading an existing file"** (or click **"Add file" > "Upload files"**).
-4. Drag and drop all the extracted files and folders (including `index.html`, `.nojekyll`, and the `.github` folder) into the browser.
-5. Click **"Commit changes"** at the bottom of the page.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### Step 3: Enable GitHub Pages (Select One Method)
-
-#### Method A: GitHub Actions (Recommended ⚡)
-This repository contains a pre-configured GitHub Actions workflow that automates deployment.
-1. In your GitHub repository, click on **Settings** (top tab bar).
-2. In the left sidebar, click on **Pages**.
-3. Under **Build and deployment** > **Source**, change the dropdown to **GitHub Actions**.
-4. That's it! GitHub Actions will deploy your site. You can monitor the progress under the **Actions** tab.
-
-#### Method B: Deploy from Branch (Classic 📂)
-1. In your GitHub repository, click on **Settings** > **Pages**.
-2. Under **Build and deployment** > **Source**, keep it as **Deploy from a branch**.
-3. Under **Branch**, select `main` (or `master`) and click **Save**.
