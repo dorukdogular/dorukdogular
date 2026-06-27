@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full end developer from Turkey</h3
 
 
-- 🌱 I’m currently learning **CMS Systems**
+- 🌱 I’m currently learning **Swift Programming**
 
 - 📫 How to reach me **dorukdogular@hotmail.com**
 
